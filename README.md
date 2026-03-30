@@ -1,4 +1,3 @@
-# Attendance-Manager
 # 📊 Java Attendance Manager
 
 A desktop-based attendance management system built using Java Swing.
