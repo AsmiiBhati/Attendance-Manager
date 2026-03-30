@@ -12,7 +12,7 @@ public class AttendanceManager extends JFrame {
     private JTextArea reportArea;
     private static final String DATA_FILE = "students.txt";
 
-    // Student Inner Class
+    // Student Inner Class.
     private class Student {
         private String rollNo;
         private String name;
